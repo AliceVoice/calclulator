@@ -2,7 +2,6 @@ package pro.sky.calclulator;
 
 import org.springframework.stereotype.Service;
 
-
 @Service
 public class CalcService {
     public String hello() {
