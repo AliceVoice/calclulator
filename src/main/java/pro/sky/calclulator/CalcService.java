@@ -27,5 +27,4 @@ public class CalcService {
         int total = num1 / num2;
         return total;
     }
-
 }
